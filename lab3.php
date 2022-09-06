@@ -1,4 +1,4 @@
- <?php
+<?php
 $param = $_GET['param'];
 echo "param is: " . $param . "<br>";
 if ($param == "hello") {
