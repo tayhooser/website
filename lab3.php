@@ -8,5 +8,5 @@ if ($param == "hello") {
     echo "number:" . $num . "<br>";
 }
 echo "<br>";
-echo "<img src=\"my_diagram3.gif\"  style="width:800px;height:auto;"/>";
-?> 
+echo "<img src=\"my_diagram3.gif\"/>";
+?>
